@@ -1,0 +1,14 @@
+:root {
+	--error_color: hsl(4, 100%, 67%);
+	--error_bg_color: hsl(3, 100%, 96%);
+	--button_bg_color: hsl(234, 29%, 20%);
+	--text_main_color: hsl(235, 18%, 26%);
+	--border_color: hsl(231, 7%, 60%);
+	--main_bg_color: hsl(0, 0%, 100%);
+	--footer_bg_color: hsl(234, 9%, 79%);
+	--button-hover-gradient: linear-gradient(
+		90deg,
+		rgba(255, 67, 136, 1) 0%,
+		rgba(237, 158, 53, 1) 85%
+	);
+}
