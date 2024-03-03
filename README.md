@@ -1,6 +1,6 @@
 # Frontend Mentor - Newsletter sign-up form with success message solution
 
-This is a solution to the [Newsletter sign-up form with success message challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Newsletter sign-up form with success message challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -10,8 +10,8 @@ This is a solution to the [Newsletter sign-up form with success message challeng
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
+- [Links](#links)
 - [Author](#author)
-
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -34,7 +34,6 @@ Users should be able to:
 ![Mobile_view](./images/mobile_view.png)
 ![Desktop_view](./images/desktop_view.png)
 
-
 ### Built with
 
 - Semantic HTML5 markup
@@ -43,12 +42,13 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-
-
 ### What I learned
 
 In this challenge, I wanted to practice DOM manipulation using pure JS.
 
+## Links
+
+-Live site - [Live site](https://grzybowskipiotr.github.io/newsletter-sign-up-with-success-message/)
 
 ## Author
 
